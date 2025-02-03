@@ -204,4 +204,8 @@ To make your app more inspiring and engaging, add the following advanced widgets
    - Finalize documentation detailing the prompts used, customizations made, and any lessons learned.
 3. **Archiving:**  
    - Archive project settings and backups for future reference or rollbacks.
+     
+**final result after I created This project will look like this:
+     
+![app ](https://github.com/user-attachments/assets/d9f7b95d-4a6a-4528-9f70-5475d94a6115)
 
